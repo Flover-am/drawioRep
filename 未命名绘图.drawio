@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13">
   <diagram name="第 1 页" id="5w60ZApVhtlBWwktxhmQ">
-    <mxGraphModel dx="812" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="852" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,8 +12,8 @@
         </mxCell>
         <mxCell id="fj7yE3d4NN2Kqe4ZEAE6-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="393" y="598" as="sourcePoint" />
-            <mxPoint x="393" y="238" as="targetPoint" />
+            <mxPoint x="390" y="600" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RaiOMSPYlgh454oG2q4W-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -52,11 +52,11 @@
         <mxCell id="RaiOMSPYlgh454oG2q4W-10" value="只有碎片化时间的读者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="417" y="490" width="173" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RaiOMSPYlgh454oG2q4W-11" value="有好灵感但不善于创作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="417" y="320" width="173" height="30" as="geometry" />
+        <mxCell id="RaiOMSPYlgh454oG2q4W-11" value="有好灵感但不善于创作的读者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="407" y="318" width="193" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RaiOMSPYlgh454oG2q4W-12" value="文思泉涌的作家" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="173" height="30" as="geometry" />
+          <mxGeometry x="633.5" y="318" width="173" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RaiOMSPYlgh454oG2q4W-13" value="需要灵感的作者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="640" y="490" width="173" height="30" as="geometry" />
